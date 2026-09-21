@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Lima: Mi Ciudad</string>
+    <string name="back">Volver</string>
+
+    <!-- Home -->
+    <string name="home_title">Lima: Mi Ciudad</string>
+
+    <!-- Categorías -->
+    <string name="category_cafeterias">Cafeterías</string>
+    <string name="category_restaurantes">Restaurantes</string>
+    <string name="category_museos">Museos</string>
+    <string name="category_parques">Parques</string>
+    <string name="category_centros_comerciales">Centros comerciales</string>
+    <string name="category_lugares_ninos">Lugares para niños</string>
+
+    <!-- Cafeterías -->
+    <string name="cafeterias_cafe_flores">Café Flores</string>
+    <string name="cafeterias_cafe_flores_desc">Clásico de Miraflores desde 1957, con su fachada de mosaicos y ambiente bohemio. Ideal para un desayuno abundante y un café pasado.</string>
+    <string name="cafeterias_la_moneda">La Moneda Café</string>
+    <string name="cafeterias_la_moneda_desc">Café de especialidad en una de las casas más pintorescas de Barranco. Café de origen y tostado artesanal junto a la casa de Mario Testino.</string>
+    <string name="cafeterias_bisetti">Bisetti Coffee Lab</string>
+    <string name="cafeterias_bisetti_desc">Tostaduría en Surquillo con catas y cafés de distintas regiones peruanas. Perfecto para descubrir el verdadero café nacional.</string>
+    <string name="cafeterias_puku_puku">Puku Puku Café</string>
+    <string name="cafeterias_puku_puku_desc">Cadena boutique de origen cusqueño. Su cold brew y su cheesecake de aguaymanto son infaltables en el brunch.</string>
+
+    <!-- Restaurantes -->
+    <string name="restaurantes_central">Central</string>
+    <string name="restaurantes_central_desc">En Miraflores, uno de los mejores restaurantes del mundo. Su menú recorre los ecosistemas del Perú con la cocina de Virgilio Martínez.</string>
+    <string name="restaurantes_maido">Maido</string>
+    <string name="restaurantes_maido_desc">Referente de la cocina nikkei, fusión de lo mejor del Perú y Japón. Su menú degustación es toda una experiencia.</string>
+    <string name="restaurantes_punto_azul">Punto Azul</string>
+    <string name="restaurantes_punto_azul_desc">La cebichería clásica de Miraflores para los amantes del ceviche de pescado, el arroz con mariscos y la leche de tigre.</string>
+    <string name="restaurantes_rosa_nautica">La Rosa Náutica</string>
+    <string name="restaurantes_rosa_nautica_desc">Restaurante al final del espigón de Miraflores, con vista al mar. Su ceviche y sus platos de pescados y mariscos brillan frente al océano.</string>
+
+    <!-- Museos -->
+    <string name="museos_larco">Museo Larco</string>
+    <string name="museos_larco_desc">En Pueblo Libre, alberga más de 45 000 piezas de arte precolombino, incluidas su sala de orfebrería y sus famosas cerámicas eróticas.</string>
+    <string name="museos_mali">MALI - Museo de Arte de Lima</string>
+    <string name="museos_mali_desc">En el Palacio de la Exposición, presenta arte peruano desde la época prehispánica hasta el arte contemporáneo.</string>
+    <string name="museos_nacion">Museo de la Nación</string>
+    <string name="museos_nacion_desc">En San Borja, recorre doce mil años de historia del Perú, desde los primeros cazadores hasta la época republicana.</string>
+    <string name="museos_osma">Museo Pedro de Osma</string>
+    <string name="museos_osma_desc">En una casona de Barranco, exhibe una valiosa colección de arte virreinal peruano: platería, pintura, escultura y mobiliario.</string>
+
+    <!-- Parques -->
+    <string name="parques_kennedy">Parque Kennedy</string>
+    <string name="parques_kennedy_desc">El corazón de Miraflores, famoso por sus gatos y sus ferias de arte los fines de semana. Rodeado de cafés, heladerías y restaurantes.</string>
+    <string name="parques_olivar">Parque El Olivar</string>
+    <string name="parques_olivar_desc">En San Isidro, un bosque de olivos centenarios con laguna y patos. Ideal para caminar, leer o descansar bajo la sombra.</string>
+    <string name="parques_circuito_agua">Circuito Mágico del Agua</string>
+    <string name="parques_circuito_agua_desc">En el Parque de la Reserva, decenas de fuentes de agua con luces y música. Su fuente cibernética cierra la noche con un espectáculo único.</string>
+    <string name="parques_amor">Parque del Amor</string>
+    <string name="parques_amor_desc">Sobre los acantilados de Miraflores, ofrece una de las mejores vistas al mar. Su escultura El beso es ideal para ver el atardecer.</string>
+
+    <!-- Centros comerciales -->
+    <string name="centros_larcomar">Larcomar</string>
+    <string name="centros_larcomar_desc">Centro comercial sobre los acantilados de Miraflores, con vista al mar desde casi todas sus tiendas. Cines, gastronomía y moda.</string>
+    <string name="centros_jockey">Jockey Plaza</string>
+    <string name="centros_jockey_desc">En Santiago de Surco, uno de los centros comerciales más grandes del país. Amplia oferta de tiendas, restaurantes y entretenimiento.</string>
+    <string name="centros_real_plaza">Real Plaza Salaverry</string>
+    <string name="centros_real_plaza_desc">En Jesús María, combina tiendas, cines y una gran variedad de restaurantes en un mismo lugar.</string>
+    <string name="centros_plaza_norte">Plaza Norte</string>
+    <string name="centros_plaza_norte_desc">En Independencia, el gran centro comercial del norte de Lima. Comercio, cines, patios de comida y juegos para toda la familia.</string>
+
+    <!-- Lugares para niños -->
+    <string name="ninos_leyendas">Parque de las Leyendas</string>
+    <string name="ninos_leyendas_desc">Zoológico en San Miguel que reúne la fauna de las tres regiones del Perú. Además de animales, cuenta con museos y áreas de picnic.</string>
+    <string name="ninos_coney_park">Coney Park</string>
+    <string name="ninos_coney_park_desc">Centro de juegos mecánicos y electrónicos dentro de Jockey Plaza, ideal para un día de diversión en familia.</string>
+    <string name="ninos_amistad">Parque de la Amistad</string>
+    <string name="ninos_amistad_desc">En Surco, cuenta con un lago con patos, botes a pedal, juegos infantiles y amplios campos verdes para correr y jugar.</string>
+</resources>
